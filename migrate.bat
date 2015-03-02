@@ -1,0 +1,1 @@
+php ..\..\..\yii migrate/up --migrationPath=@vendor/kyra/sm/migrations
